@@ -138,3 +138,8 @@ const displaylestedposts=(data)=>{
         
        });
 }
+
+const loadellatsall=()=>
+{
+    const div =document.createElement('div')
+}
