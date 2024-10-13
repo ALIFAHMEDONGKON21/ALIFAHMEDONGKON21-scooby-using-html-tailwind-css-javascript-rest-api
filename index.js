@@ -139,7 +139,7 @@ const displaylestedposts=(data)=>{
        });
 }
 
-const loadellatsall=()=>
+const showdetails =()=>
 {
-    const div =document.createElement('div')
+    const detalsbtn=document.getElementById()
 }
